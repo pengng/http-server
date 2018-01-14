@@ -2,13 +2,17 @@
 
 http static server for golang.
 
-### Usage
+### Download
+
+- [http-server](https://github.com/pengng/http-server/releases/)
+
+### Install
 
 ```bash
 go get github.com/pengng/http-server
 ```
 
-### Command
+### Usage
 
 ```bash
 usage: http-server [options] [path]
